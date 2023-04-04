@@ -1,0 +1,2694 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>Cloud cover</VAR>
+<UNIT>octas</UNIT>
+<PERIOD>20211110-20211114</PERIOD>
+ <STATION>
+ <MEAN_OBS>   6.43434334     </MEAN_OBS>
+ <STDV_OBS>   1.28073430     </STDV_OBS>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>REF</NAME>
+ <NUM>          99 </NUM>
+ <MEAN>   7.50505066     </MEAN>
+ <STDV>   3.07955965E-03 </STDV>
+ <BIAS>   1.29497945     </BIAS>
+ <RMSE>  0.226286650     </RMSE>
+ <CORR>   9.61353220E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          99 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29497945     </BIAS>
+ <RMSE>  0.226286650     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          99 </NUM>
+ <MEAN>  0.131743431     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46509898     </BIAS>
+ <RMSE>  0.225365758     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.88135576     </MEAN_OBS>
+ <STDV_OBS>   3.25002360     </STDV_OBS>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.13559341     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   2.36189961     </BIAS>
+ <RMSE>  0.710239232     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.36189961     </BIAS>
+ <RMSE>  0.710239232     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   10197.3799     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.42580223     </BIAS>
+ <RMSE>  0.693542838     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.68085098     </MEAN_OBS>
+ <STDV_OBS>   3.12357283     </STDV_OBS>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>REF</NAME>
+ <NUM>          47 </NUM>
+ <MEAN>   4.93617010     </MEAN>
+ <STDV>   9.61380890E+23 </STDV>
+ <BIAS>   5.04493141     </BIAS>
+ <RMSE>  -3.82329188E-02 </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          47 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.04493141     </BIAS>
+ <RMSE>  -3.82329188E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          47 </NUM>
+ <MEAN>  0.332952380     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.15890789     </BIAS>
+ <RMSE>  0.230520681     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.42857170     </MEAN_OBS>
+ <STDV_OBS>   2.72426176     </STDV_OBS>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>REF</NAME>
+ <NUM>          42 </NUM>
+ <MEAN>   6.57142878     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   2.38297534     </BIAS>
+ <RMSE>  0.542349994     </RMSE>
+ <CORR>   9.61353220E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          42 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.38297534     </BIAS>
+ <RMSE>  0.542349994     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          42 </NUM>
+ <MEAN>   7.51628256     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.99489141     </BIAS>
+ <RMSE>  0.693361163     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.81818199     </MEAN_OBS>
+ <STDV_OBS>   1.59340131     </STDV_OBS>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>REF</NAME>
+ <NUM>          66 </NUM>
+ <MEAN>   7.12121248     </MEAN>
+ <STDV>   3.07955965E-03 </STDV>
+ <BIAS>   1.68093073     </BIAS>
+ <RMSE>  0.125181809     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          66 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68093073     </BIAS>
+ <RMSE>  0.125181809     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          66 </NUM>
+ <MEAN>   21324.3750     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.85022259     </BIAS>
+ <RMSE>   9.73911136E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.02536345     </STDV_OBS>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>REF</NAME>
+ <NUM>          43 </NUM>
+ <MEAN>   6.11627913     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   2.65971684     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   9.61367055E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          43 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.65971684     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          43 </NUM>
+ <MEAN>   30623.1992     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.98997784     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.81372595     </MEAN_OBS>
+ <STDV_OBS>   1.39823365     </STDV_OBS>
+ <EXP>
+ <ID>        1152 </ID>
+ <NAME>REF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   7.51960802     </MEAN>
+ <STDV>   9.60791748E+23 </STDV>
+ <BIAS>   1.40907323     </BIAS>
+ <RMSE>   3.03979702E-02 </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1152 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40907323     </BIAS>
+ <RMSE>   3.03979702E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1152 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.384582192     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58168590     </BIAS>
+ <RMSE>  0.191214249     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.09433985     </MEAN_OBS>
+ <STDV_OBS>   3.27667141     </STDV_OBS>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>REF</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.73584890     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   2.31699347     </BIAS>
+ <RMSE>  0.651373029     </RMSE>
+ <CORR>   9.61367055E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.31699347     </BIAS>
+ <RMSE>  0.651373029     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.304904491     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95943856     </BIAS>
+ <RMSE>  0.518142104     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.17142868     </MEAN_OBS>
+ <STDV_OBS>   2.14159918     </STDV_OBS>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>REF</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>   6.67619085     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   2.19304204     </BIAS>
+ <RMSE>  0.164697632     </RMSE>
+ <CORR>   9.61353220E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.19304204     </BIAS>
+ <RMSE>  0.164697632     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>   6344.63037     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.28503966     </BIAS>
+ <RMSE>  0.234561563     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.61864424     </MEAN_OBS>
+ <STDV_OBS>   2.93634486     </STDV_OBS>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.95762730     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   3.79517221     </BIAS>
+ <RMSE>  0.233753398     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.79517221     </BIAS>
+ <RMSE>  0.233753398     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   15102.6885     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.74894428     </BIAS>
+ <RMSE>  0.255617827     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.25423717     </MEAN_OBS>
+ <STDV_OBS>   3.37140369     </STDV_OBS>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.03389835     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   3.52949572     </BIAS>
+ <RMSE>   7.57957473E-02 </RMSE>
+ <CORR>   9.61383196E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.52949572     </BIAS>
+ <RMSE>   7.57957473E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   23650.4219     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.86013007     </BIAS>
+ <RMSE>  -2.06318051E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.40677977     </MEAN_OBS>
+ <STDV_OBS>   3.44455886     </STDV_OBS>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.71186447     </MEAN>
+ <STDV>   3.07955965E-03 </STDV>
+ <BIAS>   3.79650593     </BIAS>
+ <RMSE>  0.329802334     </RMSE>
+ <CORR>   9.60791748E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.79650593     </BIAS>
+ <RMSE>  0.329802334     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   18930.8066     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.52354908     </BIAS>
+ <RMSE>  0.414968878     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.49152565     </MEAN_OBS>
+ <STDV_OBS>   2.48362732     </STDV_OBS>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.78813553     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   2.20710254     </BIAS>
+ <RMSE>  0.431993574     </RMSE>
+ <CORR>   3.07933986E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.20710254     </BIAS>
+ <RMSE>  0.431993574     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   23893.5430     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.36610723     </BIAS>
+ <RMSE>  0.404632986     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.13559341     </MEAN_OBS>
+ <STDV_OBS>   2.71843767     </STDV_OBS>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.29661036     </MEAN>
+ <STDV>   9.60791748E+23 </STDV>
+ <BIAS>   2.37064052     </BIAS>
+ <RMSE>  0.560480714     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37064052     </BIAS>
+ <RMSE>  0.560480714     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   20866.9492     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.30684423     </BIAS>
+ <RMSE>  0.560977042     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.94936705     </MEAN_OBS>
+ <STDV_OBS>   3.56053042     </STDV_OBS>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>REF</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   4.60759497     </MEAN>
+ <STDV>   3.07933986E-03 </STDV>
+ <BIAS>   3.33745408     </BIAS>
+ <RMSE>  0.496426970     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.33745408     </BIAS>
+ <RMSE>  0.496426970     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   13467.4248     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.01845002     </BIAS>
+ <RMSE>  0.613256872     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.98113203     </MEAN_OBS>
+ <STDV_OBS>  0.506130755     </STDV_OBS>
+ <EXP>
+ <ID>        1114 </ID>
+ <NAME>REF</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   7.88679266     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   1.24899387     </BIAS>
+ <RMSE>  -4.65947613E-02 </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1114 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24899387     </BIAS>
+ <RMSE>  -4.65947613E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1114 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   10.5290155     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.523563683     </BIAS>
+ <RMSE>  -3.13350148E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.737288117     </MEAN_OBS>
+ <STDV_OBS>   3.53707004     </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   3.27966094     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   3.37923145     </BIAS>
+ <RMSE>  0.367756039     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.37923145     </BIAS>
+ <RMSE>  0.367756039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   17790.1074     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.35383439     </BIAS>
+ <RMSE>  0.369196385     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.635593235     </MEAN_OBS>
+ <STDV_OBS>   3.34964490     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.34745741     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   3.54072070     </BIAS>
+ <RMSE>  0.143080369     </RMSE>
+ <CORR>   9.61367055E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.54072070     </BIAS>
+ <RMSE>  0.143080369     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   13564.6455     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.54893637     </BIAS>
+ <RMSE>  0.126522556     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.11864400     </MEAN_OBS>
+ <STDV_OBS>   3.51936340     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   3.91525435     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   4.09192181     </BIAS>
+ <RMSE>  0.242216915     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.09192181     </BIAS>
+ <RMSE>  0.242216915     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   19414.9219     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.04332304     </BIAS>
+ <RMSE>  0.261796355     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.49152541     </MEAN_OBS>
+ <STDV_OBS>   3.31438541     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.82203388     </MEAN>
+ <STDV>   3.07933986E-03 </STDV>
+ <BIAS>   3.77601099     </BIAS>
+ <RMSE>  0.202737510     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.77601099     </BIAS>
+ <RMSE>  0.202737510     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   18711.0430     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.72589445     </BIAS>
+ <RMSE>  0.230123177     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.71186447     </MEAN_OBS>
+ <STDV_OBS>   3.27559733     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.76271200     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   3.88549852     </BIAS>
+ <RMSE>  0.317072988     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.88549852     </BIAS>
+ <RMSE>  0.317072988     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   18545.0801     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.94420290     </BIAS>
+ <RMSE>  0.299493819     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.91525412     </MEAN_OBS>
+ <STDV_OBS>   3.00634313     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.06779671     </MEAN>
+ <STDV>   3.07955965E-03 </STDV>
+ <BIAS>   3.57144833     </BIAS>
+ <RMSE>  0.251277417     </RMSE>
+ <CORR>   3.07933986E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.57144833     </BIAS>
+ <RMSE>  0.251277417     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   18838.5254     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.84361029     </BIAS>
+ <RMSE>  0.134861052     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.72033882     </MEAN_OBS>
+ <STDV_OBS>   2.64212132     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.65254259     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   3.34203601     </BIAS>
+ <RMSE>  0.368572831     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.34203601     </BIAS>
+ <RMSE>  0.368572831     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   21507.7617     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.49024963     </BIAS>
+ <RMSE>  0.321593821     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.57627106     </MEAN_OBS>
+ <STDV_OBS>   2.28277636     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.05084753     </MEAN>
+ <STDV>   9.61380890E+23 </STDV>
+ <BIAS>   4.13468981     </BIAS>
+ <RMSE>   4.68021743E-02 </RMSE>
+ <CORR>   9.60791748E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.13468981     </BIAS>
+ <RMSE>   4.68021743E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   20780.0645     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.15935087     </BIAS>
+ <RMSE>   5.02792038E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.55084753     </MEAN_OBS>
+ <STDV_OBS>   2.31002831     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.88135576     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   2.74598503     </BIAS>
+ <RMSE>  0.294843137     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.74598503     </BIAS>
+ <RMSE>  0.294843137     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   19195.4863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81357217     </BIAS>
+ <RMSE>  0.254820555     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.27966118     </MEAN_OBS>
+ <STDV_OBS>   3.50431728     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.95762730     </MEAN>
+ <STDV>   9.61380890E+23 </STDV>
+ <BIAS>   3.05673862     </BIAS>
+ <RMSE>  0.531259954     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.05673862     </BIAS>
+ <RMSE>  0.531259954     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   22264.9609     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.03058243     </BIAS>
+ <RMSE>  0.570030570     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.27118635     </MEAN_OBS>
+ <STDV_OBS>   3.51566720     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.66949177     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   3.70186734     </BIAS>
+ <RMSE>  0.367727637     </RMSE>
+ <CORR>   9.61383196E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.70186734     </BIAS>
+ <RMSE>  0.367727637     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   24289.0820     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.74423790     </BIAS>
+ <RMSE>  0.362255096     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.27118635     </MEAN_OBS>
+ <STDV_OBS>   3.60883427     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.27966118     </MEAN>
+ <STDV>   3.07955965E-03 </STDV>
+ <BIAS>   3.84563708     </BIAS>
+ <RMSE>  0.285182238     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.84563708     </BIAS>
+ <RMSE>  0.285182238     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   14560.4453     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.86311460     </BIAS>
+ <RMSE>  0.282798529     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.75999975     </MEAN_OBS>
+ <STDV_OBS>   2.47510052     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>REF</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   6.57999992     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   3.37194276     </BIAS>
+ <RMSE>  0.469770283     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.37194276     </BIAS>
+ <RMSE>  0.469770283     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   19443.3340     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.18552971     </BIAS>
+ <RMSE>  0.521159172     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.38983059     </MEAN_OBS>
+ <STDV_OBS>   3.47430086     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.39830494     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   3.49815273     </BIAS>
+ <RMSE>  0.507306278     </RMSE>
+ <CORR>   9.61353220E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.49815273     </BIAS>
+ <RMSE>  0.507306278     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   22520.9219     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.59023118     </BIAS>
+ <RMSE>  0.469412357     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.30508471     </MEAN_OBS>
+ <STDV_OBS>   3.65458679     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.41525412     </MEAN>
+ <STDV>   9.61380890E+23 </STDV>
+ <BIAS>   3.31121755     </BIAS>
+ <RMSE>  0.445643038     </RMSE>
+ <CORR>   3.07933986E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.31121755     </BIAS>
+ <RMSE>  0.445643038     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   18994.8965     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.37935877     </BIAS>
+ <RMSE>  0.437972367     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.03389835     </MEAN_OBS>
+ <STDV_OBS>   3.35711861     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.70338964     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   4.22707224     </BIAS>
+ <RMSE>  0.107769787     </RMSE>
+ <CORR>   9.61353220E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.22707224     </BIAS>
+ <RMSE>  0.107769787     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   22051.9473     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.29239607     </BIAS>
+ <RMSE>  0.113830082     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.91525435     </MEAN_OBS>
+ <STDV_OBS>   3.23613167     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.45762730     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   4.08822584     </BIAS>
+ <RMSE>  0.245472714     </RMSE>
+ <CORR>   9.60791748E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.08822584     </BIAS>
+ <RMSE>  0.245472714     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   23747.3320     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.05396700     </BIAS>
+ <RMSE>  0.209241554     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.57627106     </MEAN_OBS>
+ <STDV_OBS>   2.67644072     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.66949177     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   4.01806641     </BIAS>
+ <RMSE>  0.232143998     </RMSE>
+ <CORR>   3.07933986E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.01806641     </BIAS>
+ <RMSE>  0.232143998     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   28185.9609     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.85321164     </BIAS>
+ <RMSE>  0.314581394     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.93220329     </MEAN_OBS>
+ <STDV_OBS>   2.78122044     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.30508471     </MEAN>
+ <STDV>   9.60791748E+23 </STDV>
+ <BIAS>   4.55594969     </BIAS>
+ <RMSE> -0.100474969     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.55594969     </BIAS>
+ <RMSE> -0.100474969     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   21801.8203     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.62454128     </BIAS>
+ <RMSE> -0.106032401     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.72033906     </MEAN_OBS>
+ <STDV_OBS>   3.24444723     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.62711859     </MEAN>
+ <STDV>   3.07933986E-03 </STDV>
+ <BIAS>   5.12055206     </BIAS>
+ <RMSE> -0.227742597     </RMSE>
+ <CORR>   9.61383196E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.12055206     </BIAS>
+ <RMSE> -0.227742597     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   20951.5371     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.97278547     </BIAS>
+ <RMSE> -0.194251001     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.41525412     </MEAN_OBS>
+ <STDV_OBS>   2.88714027     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.17796612     </MEAN>
+ <STDV>   3.07955965E-03 </STDV>
+ <BIAS>   4.51220083     </BIAS>
+ <RMSE>  0.101614952     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.51220083     </BIAS>
+ <RMSE>  0.101614952     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   28037.7793     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.37380075     </BIAS>
+ <RMSE>  0.131075576     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.33050871     </MEAN_OBS>
+ <STDV_OBS>   2.81549072     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.93220329     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   4.94799852     </BIAS>
+ <RMSE> -0.203233272     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.94799852     </BIAS>
+ <RMSE> -0.203233272     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   24734.2285     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.62883329     </BIAS>
+ <RMSE> -0.119886294     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.97457647     </MEAN_OBS>
+ <STDV_OBS>   2.69927907     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.59322023     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   3.63716340     </BIAS>
+ <RMSE>  0.282955408     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.63716340     </BIAS>
+ <RMSE>  0.282955408     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   16775.2832     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.72558618     </BIAS>
+ <RMSE>  0.252346992     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.61016941     </MEAN_OBS>
+ <STDV_OBS>   2.77668524     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.38983059     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   4.53972387     </BIAS>
+ <RMSE>  -6.82523251E-02 </RMSE>
+ <CORR>   9.61367055E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.53972387     </BIAS>
+ <RMSE>  -6.82523251E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   22702.3789     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.47618103     </BIAS>
+ <RMSE>  -4.33011204E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.40677977     </MEAN_OBS>
+ <STDV_OBS>   2.32384610     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.86440659     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   4.17394209     </BIAS>
+ <RMSE>  -2.06954647E-02 </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.17394209     </BIAS>
+ <RMSE>  -2.06954647E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   23398.7656     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.92869520     </BIAS>
+ <RMSE>   6.22918271E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60169506     </MEAN_OBS>
+ <STDV_OBS>   2.63344407     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.68644047     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   3.58052611     </BIAS>
+ <RMSE>  0.306402862     </RMSE>
+ <CORR>   9.60791748E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.58052611     </BIAS>
+ <RMSE>  0.306402862     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   14490.4775     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.55960464     </BIAS>
+ <RMSE>  0.316226065     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.68644047     </MEAN_OBS>
+ <STDV_OBS>   2.83661008     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.47457647     </MEAN>
+ <STDV>   9.61380890E+23 </STDV>
+ <BIAS>   2.63592029     </BIAS>
+ <RMSE>  0.522847950     </RMSE>
+ <CORR>   3.07933986E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.63592029     </BIAS>
+ <RMSE>  0.522847950     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   17601.2246     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.68028498     </BIAS>
+ <RMSE>  0.509134710     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.15254259     </MEAN_OBS>
+ <STDV_OBS>   2.59811115     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.72033882     </MEAN>
+ <STDV>   9.60791748E+23 </STDV>
+ <BIAS>   3.22475171     </BIAS>
+ <RMSE>  0.437167585     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.22475171     </BIAS>
+ <RMSE>  0.437167585     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   24066.1895     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.12854218     </BIAS>
+ <RMSE>  0.454694420     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.56779671     </MEAN_OBS>
+ <STDV_OBS>   3.31065726     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   3.74576283     </MEAN>
+ <STDV>   9.60430883E+23 </STDV>
+ <BIAS>   4.03358698     </BIAS>
+ <RMSE>  0.221690357     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.03358698     </BIAS>
+ <RMSE>  0.221690357     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   23439.5605     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.09553576     </BIAS>
+ <RMSE>  0.210038424     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.64596510     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.54237270     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   3.63957143     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.63957143     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   23358.7969     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.63048339     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.72881353     </MEAN_OBS>
+ <STDV_OBS>   3.75985837     </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.09322023     </MEAN>
+ <STDV>   3.07933986E-03 </STDV>
+ <BIAS>   3.89510751     </BIAS>
+ <RMSE>  0.343804538     </RMSE>
+ <CORR>   9.61364750E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.89510751     </BIAS>
+ <RMSE>  0.343804538     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   17854.2852     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.84810185     </BIAS>
+ <RMSE>  0.351064354     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.889830530     </MEAN_OBS>
+ <STDV_OBS>   3.69957781     </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   3.46610165     </MEAN>
+ <STDV>   9.61380890E+23 </STDV>
+ <BIAS>   3.75640774     </BIAS>
+ <RMSE>  0.261720151     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.75640774     </BIAS>
+ <RMSE>  0.261720151     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   21748.0312     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.74031377     </BIAS>
+ <RMSE>  0.264806896     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.28813553     </MEAN_OBS>
+ <STDV_OBS>   2.54584217     </STDV_OBS>
+ <EXP>
+ <ID>        1062 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.07627106     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   2.79811215     </BIAS>
+ <RMSE>  0.111491442     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1062 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.79811215     </BIAS>
+ <RMSE>  0.111491442     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1062 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   21152.6211     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.60654879     </BIAS>
+ <RMSE>   6.15690537E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.79787207     </MEAN_OBS>
+ <STDV_OBS>   1.88653791     </STDV_OBS>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>REF</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   7.01063824     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   1.92926049     </BIAS>
+ <RMSE>  0.203401238     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.92926049     </BIAS>
+ <RMSE>  0.203401238     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>  0.357235849     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.28255320     </BIAS>
+ <RMSE>   1.36956470E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.87058830     </MEAN_OBS>
+ <STDV_OBS>   1.39897919     </STDV_OBS>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>REF</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   7.40000010     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   1.86165094     </BIAS>
+ <RMSE>  -7.49264238E-03 </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.86165094     </BIAS>
+ <RMSE>  -7.49264238E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   14076.1133     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55365407     </BIAS>
+ <RMSE>  0.103364401     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.84745741     </MEAN_OBS>
+ <STDV_OBS>   1.94538271     </STDV_OBS>
+ <EXP>
+ <ID>        1025 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.04237270     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   2.81095457     </BIAS>
+ <RMSE>  -5.94987273E-02 </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1025 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81095457     </BIAS>
+ <RMSE>  -5.94987273E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1025 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>  0.315846592     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.66254139     </BIAS>
+ <RMSE>   3.85391973E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.74576283     </MEAN_OBS>
+ <STDV_OBS>   2.52348089     </STDV_OBS>
+ <EXP>
+ <ID>        1028 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.35593224     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   2.58191013     </BIAS>
+ <RMSE>  0.429584891     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1028 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.58191013     </BIAS>
+ <RMSE>  0.429584891     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1028 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   13.0946722     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.40773439     </BIAS>
+ <RMSE>  0.445838600     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.15254259     </MEAN_OBS>
+ <STDV_OBS>   2.94829655     </STDV_OBS>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.30508471     </MEAN>
+ <STDV>   3.07933986E-03 </STDV>
+ <BIAS>   2.22460461     </BIAS>
+ <RMSE>  0.706956923     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.22460461     </BIAS>
+ <RMSE>  0.706956923     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>  0.720682800     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.44819927     </BIAS>
+ <RMSE>  0.626635849     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.05084753     </MEAN_OBS>
+ <STDV_OBS>   2.63623452     </STDV_OBS>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.20338964     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   2.83285451     </BIAS>
+ <RMSE>   7.06849769E-02 </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.83285451     </BIAS>
+ <RMSE>   7.06849769E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   20824.9414     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.20123672     </BIAS>
+ <RMSE>  -3.56389470E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.65254259     </MEAN_OBS>
+ <STDV_OBS>   2.87219930     </STDV_OBS>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.44915247     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   2.45600462     </BIAS>
+ <RMSE>  0.604505241     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.45600462     </BIAS>
+ <RMSE>  0.604505241     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   30886.4023     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.46521330     </BIAS>
+ <RMSE>  0.594547689     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.82203388     </MEAN_OBS>
+ <STDV_OBS>   2.84024644     </STDV_OBS>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.61864424     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   2.44856596     </BIAS>
+ <RMSE>  0.572551727     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.44856596     </BIAS>
+ <RMSE>  0.572551727     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   24774.6289     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.19614196     </BIAS>
+ <RMSE>  0.630206704     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.05932188     </MEAN_OBS>
+ <STDV_OBS>   2.43366289     </STDV_OBS>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.56779671     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   3.00913095     </BIAS>
+ <RMSE>  0.277790487     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.00913095     </BIAS>
+ <RMSE>  0.277790487     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   19585.4102     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.93068433     </BIAS>
+ <RMSE>  0.342506170     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.43220329     </MEAN_OBS>
+ <STDV_OBS>   2.05712986     </STDV_OBS>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.20338964     </MEAN>
+ <STDV>   9.60791748E+23 </STDV>
+ <BIAS>   2.54846716     </BIAS>
+ <RMSE>  0.317540616     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.54846716     </BIAS>
+ <RMSE>  0.317540616     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   22387.2715     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.40554094     </BIAS>
+ <RMSE>  0.412517607     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.84745741     </MEAN_OBS>
+ <STDV_OBS>   2.62544203     </STDV_OBS>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.59322023     </MEAN>
+ <STDV>   3.07933986E-03 </STDV>
+ <BIAS>   3.10896850     </BIAS>
+ <RMSE>  0.203967139     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.10896850     </BIAS>
+ <RMSE>  0.203967139     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   27454.4785     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.03981066     </BIAS>
+ <RMSE>  0.260322630     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.94915247     </MEAN_OBS>
+ <STDV_OBS>   1.77251863     </STDV_OBS>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.37288141     </MEAN>
+ <STDV>   9.61383196E+23 </STDV>
+ <BIAS>   1.93450654     </BIAS>
+ <RMSE>  0.389545143     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.93450654     </BIAS>
+ <RMSE>  0.389545143     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   19904.6328     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06835222     </BIAS>
+ <RMSE>  0.337093800     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.03389835     </MEAN_OBS>
+ <STDV_OBS>   3.12528706     </STDV_OBS>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.04237270     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   3.52225447     </BIAS>
+ <RMSE>  0.349491984     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.52225447     </BIAS>
+ <RMSE>  0.349491984     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   18428.9316     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.69033504     </BIAS>
+ <RMSE>  0.295381606     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.04237270     </MEAN_OBS>
+ <STDV_OBS>   3.26487732     </STDV_OBS>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.91525412     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   3.87013578     </BIAS>
+ <RMSE>  0.309220284     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.87013578     </BIAS>
+ <RMSE>  0.309220284     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   23477.9355     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.82131982     </BIAS>
+ <RMSE>  0.347828239     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.86440682     </MEAN_OBS>
+ <STDV_OBS>   3.20816708     </STDV_OBS>
+ <EXP>
+ <ID>        1008 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.28813553     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   3.44615293     </BIAS>
+ <RMSE>  0.217389062     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1008 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.44615293     </BIAS>
+ <RMSE>  0.217389062     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1008 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   21151.6074     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.34564424     </BIAS>
+ <RMSE>  0.282874703     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.95762730     </MEAN_OBS>
+ <STDV_OBS>   1.80988324     </STDV_OBS>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.15254259     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   2.32506299     </BIAS>
+ <RMSE>  -5.95730171E-02 </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.32506299     </BIAS>
+ <RMSE>  -5.95730171E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   15770.2129     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.11635470     </BIAS>
+ <RMSE>  0.126955628     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.57627106     </MEAN_OBS>
+ <STDV_OBS>   2.99016929     </STDV_OBS>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.33050871     </MEAN>
+ <STDV>   9.61353220E+23 </STDV>
+ <BIAS>   1.95195079     </BIAS>
+ <RMSE>  0.761801422     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.95195079     </BIAS>
+ <RMSE>  0.761801422     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>  0.205134720     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.94385803     </BIAS>
+ <RMSE>  0.757494032     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.11864424     </MEAN_OBS>
+ <STDV_OBS>   2.68163180     </STDV_OBS>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.53389835     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   2.25073004     </BIAS>
+ <RMSE>  0.679707170     </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.25073004     </BIAS>
+ <RMSE>  0.679707170     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   24406.9414     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.21446061     </BIAS>
+ <RMSE>  0.678698003     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.89830494     </MEAN_OBS>
+ <STDV_OBS>   1.43606818     </STDV_OBS>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.45762730     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   2.76708865     </BIAS>
+ <RMSE>  -7.57342875E-02 </RMSE>
+ <CORR>   9.61353220E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.76708865     </BIAS>
+ <RMSE>  -7.57342875E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>  0.189331412     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.72011447     </BIAS>
+ <RMSE>  -4.88575846E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.61016941     </MEAN_OBS>
+ <STDV_OBS>   2.14194608     </STDV_OBS>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.04237270     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   3.22265768     </BIAS>
+ <RMSE>  -2.65277419E-02 </RMSE>
+ <CORR>   9.60430883E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.22265768     </BIAS>
+ <RMSE>  -2.65277419E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>  0.231697857     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.10679626     </BIAS>
+ <RMSE>  0.116541840     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.61016941     </MEAN_OBS>
+ <STDV_OBS>   2.89795780     </STDV_OBS>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.05932188     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   3.24633789     </BIAS>
+ <RMSE>  0.278085291     </RMSE>
+ <CORR>   9.61353220E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.24633789     </BIAS>
+ <RMSE>  0.278085291     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   25720.4863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.97332048     </BIAS>
+ <RMSE>  0.376893014     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60169506     </MEAN_OBS>
+ <STDV_OBS>   3.27896786     </STDV_OBS>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.83898306     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   3.22084069     </BIAS>
+ <RMSE>  0.480167985     </RMSE>
+ <CORR>   9.61367055E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.22084069     </BIAS>
+ <RMSE>  0.480167985     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   3.10352063     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.59537816     </BIAS>
+ <RMSE>  0.330040187     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.76271200     </MEAN_OBS>
+ <STDV_OBS>   2.98127818     </STDV_OBS>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.18644047     </MEAN>
+ <STDV>   9.60791748E+23 </STDV>
+ <BIAS>   2.30202937     </BIAS>
+ <RMSE>  0.695086002     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.30202937     </BIAS>
+ <RMSE>  0.695086002     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   4.38015270     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.46468878     </BIAS>
+ <RMSE>  0.625744224     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.38983059     </MEAN_OBS>
+ <STDV_OBS>   2.86501575     </STDV_OBS>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.25423717     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   1.80792725     </BIAS>
+ <RMSE>  0.801040173     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.80792725     </BIAS>
+ <RMSE>  0.801040173     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   29787.8750     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78940034     </BIAS>
+ <RMSE>  0.800834477     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.80508471     </MEAN_OBS>
+ <STDV_OBS>   2.01213193     </STDV_OBS>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.94915247     </MEAN>
+ <STDV>   9.60430883E+23 </STDV>
+ <BIAS>   2.15022230     </BIAS>
+ <RMSE>  0.376346081     </RMSE>
+ <CORR>   9.61367055E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.15022230     </BIAS>
+ <RMSE>  0.376346081     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   26286.5645     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.22952247     </BIAS>
+ <RMSE>  0.301236361     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.94067812     </MEAN_OBS>
+ <STDV_OBS>   2.32047749     </STDV_OBS>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.00000000     </MEAN>
+ <STDV>   9.61364750E+23 </STDV>
+ <BIAS>   2.95727515     </BIAS>
+ <RMSE>   3.84067781E-02 </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95727515     </BIAS>
+ <RMSE>   3.84067781E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   34061.1602     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.82030296     </BIAS>
+ <RMSE>  0.151792720     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.55932188     </MEAN_OBS>
+ <STDV_OBS>   2.15348005     </STDV_OBS>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   6.94067812     </MEAN>
+ <STDV>   9.61367055E+23 </STDV>
+ <BIAS>   2.96794128     </BIAS>
+ <RMSE>  -2.43494958E-02 </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.96794128     </BIAS>
+ <RMSE>  -2.43494958E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   2.82030296     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.88161778     </BIAS>
+ <RMSE>  -1.74462737E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.74576283     </MEAN_OBS>
+ <STDV_OBS>   3.17545485     </STDV_OBS>
+ <EXP>
+ <ID>        1003 </ID>
+ <NAME>REF</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5.27966118     </MEAN>
+ <STDV>   9.60791748E+23 </STDV>
+ <BIAS>   2.87551761     </BIAS>
+ <RMSE>  0.409871370     </RMSE>
+ <CORR>   9.61383196E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1003 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.87551761     </BIAS>
+ <RMSE>  0.409871370     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1003 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>  0.357428521     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.96499968     </BIAS>
+ <RMSE>  0.406609952     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.962264180     </MEAN_OBS>
+ <STDV_OBS>   3.12952137     </STDV_OBS>
+ <EXP>
+ <ID>        1007 </ID>
+ <NAME>REF</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   3.77358484     </MEAN>
+ <STDV>   3.07956710E-03 </STDV>
+ <BIAS>   3.11623645     </BIAS>
+ <RMSE>  0.290591985     </RMSE>
+ <CORR>   9.61380890E+23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1007 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.11623645     </BIAS>
+ <RMSE>  0.290591985     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1007 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   14941.6260     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.07182336     </BIAS>
+ <RMSE>  0.304399729     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.05319118     </MEAN_OBS>
+ <STDV_OBS>   2.74084663     </STDV_OBS>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>REF</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   6.59574461     </MEAN>
+ <STDV>   9.60430883E+23 </STDV>
+ <BIAS>   2.74684477     </BIAS>
+ <RMSE>  0.506621540     </RMSE>
+ <CORR>   3.07955965E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>SCATT</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.74684477     </BIAS>
+ <RMSE>  0.506621540     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>Impact_EXP</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   18401.4238     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.45237565     </BIAS>
+ <RMSE>  0.564125717     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
