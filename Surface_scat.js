@@ -1,11 +1,11 @@
 
 
-title = 'Surface significance test'
+title = 'Surface scatterplots'
 
-framec='OliveDrab'
+framec='lightcoral'
 
-v[0] = ['jsign']
-t[0] = ['Significance']
+v[0] = ['s']
+t[0] = ['Full scatter']
 v[1] = ['00000000']
 t[1] = ['00000000']
 v[2] = ['00000000']
@@ -17,12 +17,14 @@ t[4] = ['Mslp','U10m','Max Wind Gust','Wind direction','T2m','T2m, height corr.'
 v[5] = [0]
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['ALL'] ;
-t[6] = v[6] ;
+v[6] = ['REF','Impact_EXP']
+t[6] = ['REF','Impact_EXP']
+v[7] = ['ALL'] ;
+t[7] = v[7] ;
 
-mname = ['Type','Period','Station','Selection','Parameter','Level','Initial time']
-loc = ['l','l','t','t','l','l','l']
-spec_name =[0,1,2,3,6,4,5]
+mname = ['Type','Period','Station','Selection','Parameter','Level','Exp','Initial time']
+loc = ['l','t','t','t','l','l','t']
+spec_name =[0,1,2,3,7,6,4,5]
 do_debug = false ;
 pdir ='Surface/'
 ext='1.png'
